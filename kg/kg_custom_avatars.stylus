@@ -1,0 +1,10 @@
+@-moz-document domain("klavogonki.ru") {
+img[src^='/storage/avatars/170205_big.png'] {
+    content:url('https://i.imgur.com/eUkvWGi.png');
+    transform: scaleX(-1);
+}
+
+img[src^='/storage/avatars/474104_big.png'] {
+    content:url('https://i.imgur.com/n2KFByT.png');
+}
+}
